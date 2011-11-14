@@ -4,6 +4,9 @@
   "version": "0.1.6",
   "keywords": [ "node", "csv", "parser" ],
   "author": "Pavel Kolesnikov <pavel.kolesnikov@gmail.com>",
+  "contributors": [
+    {"name": "Tedde Lundgren", "email": "mail@tedeh.net", "url": "http://tedeh.net"}
+  ],
   "licenses": [ "MIT" ],
   "repository": {
     "type": "git",
