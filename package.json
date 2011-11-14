@@ -1,13 +1,15 @@
 {
   "name": "ya-csv",
   "description": "CSV parser and generator for Node.js",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "keywords": [ "node", "csv", "parser" ],
   "author": "Pavel Kolesnikov <pavel.kolesnikov@gmail.com>",
   "contributors": [
     {"name": "Tedde Lundgren", "email": "mail@tedeh.net", "url": "http://tedeh.net"}
   ],
-  "licenses": [ "MIT" ],
+  "licenses": [
+    { "type": "MIT", "url": "https://raw.github.com/koles/ya-csv/master/LICENSE" }
+  ],
   "repository": {
     "type": "git",
     "url": "http://github.com/koles/ya-csv"
