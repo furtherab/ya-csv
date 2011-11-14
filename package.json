@@ -17,6 +17,7 @@
   "bin" : { "csv-reshuffle" : "./bin/reshuffle.js" },
   "os": [ "linux", "darwin" ],
   "dependencies": {},
-  "engines": { "node":  ">=0.2.3" },
+  "devDependencies": { "vows": ">=0.5.13" },
+  "engines": { "node":  ">=0.4" },
   "main": "lib/ya-csv"
 }
